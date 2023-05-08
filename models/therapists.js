@@ -15,7 +15,9 @@ module.exports = (sequelize, DataTypes) => {
   }
   Therapists.init({
     name: DataTypes.STRING,
-    specialities: DataTypes.STRING
+    specialties: DataTypes.STRING,
+    imgUrl: DataTypes.STRING,
+    isAvailable: DataTypes.BOOLEAN
   }, {
     sequelize,
     modelName: 'Therapists',

@@ -16,161 +16,207 @@ module.exports = {
       {
         id: 1,
         name: "Dr. Jane Smith",
-        specialities: "Depression",
+        specialties: "Depression",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 2,
         name: "Dr. Michael Lee",
-        specialities: "Anxiety",
+        specialties: "Anxiety",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 3,
         name: "Dr. Karen Johnson",
-        specialities: "Relationship Issues",
+        specialties: "Relationship Issues",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 4,
         name: "Dr. Sarah Patel",
-        specialities: "Eating Disorders",
+        specialties: "Eating Disorders",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 5,
         name: "Dr. Robert Garcia",
-        specialities: "Addiction",
+        specialties: "Addiction",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 6,
         name: "Dr. Amanda Jones",
-        specialities: "Trauma",
+        specialties: "Trauma",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 7,
         name: "Dr. Eric Kim",
-        specialities: "Obsessive-Compulsive Disorder (OCD)",
+        specialties: "Obsessive-Compulsive Disorder (OCD)",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 8,
         name: "Dr. Samantha Chen",
-        specialities: "Attention Deficit Hyperactivity Disorder (ADHD)",
+        specialties: "Attention Deficit Hyperactivity Disorder (ADHD)",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 9,
         name: "Dr. William Davis",
-        specialities: "Bipolar Disorder",
+        specialties: "Bipolar Disorder",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 10,
         name: "Dr. Laura Robinson",
-        specialities: "Child and Adolescent Therapy",
+        specialties: "Child and Adolescent Therapy",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 11,
         name: "Dr. Daniel Hernandez",
-        specialities: "Post-Traumatic Stress Disorder (PTSD)",
+        specialties: "Post-Traumatic Stress Disorder (PTSD)",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 12,
         name: "Dr. Rachel Nguyen",
-        specialities: "Grief and Loss",
+        specialties: "Grief and Loss",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 13,
         name: "Dr. John Kim",
-        specialities: "Anger Management",
+        specialties: "Anger Management",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 14,
         name: "Dr. Elizabeth Martinez",
-        specialities: "Sleep Disorders",
+        specialties: "Sleep Disorders",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 15,
         name: "Dr. Kevin Lee",
-        specialities: "Phobias",
+        specialties: "Phobias",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 16,
         name: "Dr. Anna Brown",
-        specialities: "Borderline Personality Disorder (BPD)",
+        specialties: "Borderline Personality Disorder (BPD)",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 17,
         name: "Dr. Timothy Green",
-        specialities: "Gender Identity",
+        specialties: "Gender Identity",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 18,
         name: "Dr. Maria Rodriguez",
-        specialities: "Self-Esteem and Confidence",
+        specialties: "Self-Esteem and Confidence",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 19,
         name: "Dr. Christopher Chen",
-        specialities: "Couples Therapy",
+        specialties: "Couples Therapy",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 20,
         name: "Dr. Emily Taylor",
-        specialities: "Career Counseling",
+        specialties: "Career Counseling", 
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 21,
         name: "Dr. Matthew Adams",
-        specialities: "Social Anxiety",
+        specialties: "Social Anxiety",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 22,
         name: "Dr. Jasmine Kim",
-        specialities: "Body Image Issues",
+        specialties: "Body Image Issues",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       },
       {
         id: 23,
         name: "Dr. Stephen Park",
-        specialities: "Panic Attacks",
+        specialties: "Panic Attacks",
+        imgUrl: "https://placeimg.com/400/300/any",
+        isAvailable: true,
         createdAt: new Date(), 
         updatedAt: new Date()
       }
