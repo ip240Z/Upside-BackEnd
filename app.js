@@ -20,4 +20,8 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/therapists', therapistsRouter);
 
+app.listen(() =>{
+    console.log(`Server running`);
+})
+
 module.exports = app;
